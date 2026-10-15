@@ -77,3 +77,12 @@ Clara del Rey fue una figura histórica vinculada al levantamiento del 2 de mayo
 ![Monumento a Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monumento_de_Clara_del_Rey_obra_del_escultor_C%C3%A9sar_Orrico_01.jpg/250px-Monumento_de_Clara_del_Rey_obra_del_escultor_C%C3%A9sar_Orrico_01.jpg)
 
 Fotografía: Juan Golben. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monumento_de_Clara_del_Rey_obra_del_escultor_C%C3%A9sar_Orrico_01.jpg). Licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
+### Fotografía externa del IES Clara del Rey
+
+Esta fotografía del instituto se muestra directamente desde Wikimedia Commons mediante una URL externa.
+
+![Fachada del IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/330px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+
+Fotografía: ANAGSPC. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg). Licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
