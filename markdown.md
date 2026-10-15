@@ -70,3 +70,10 @@ Este proyecto se realiza como parte de una práctica de Markdown del IES Clara d
 Fotografía: ANAGSPC. [wikimedia Commos](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg). Licenciada [CC BY-SA 4.0](https://creativecommos.org/licenses/by-sa/4.0/). 
 
 
+### Clara del Rey: origen del nombre del instituto
+
+Clara del Rey fue una figura histórica vinculada al levantamiento del 2 de mayo de 1808 en Madrid.
+
+![Monumento a Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Monumento_de_Clara_del_Rey_obra_del_escultor_C%C3%A9sar_Orrico_01.jpg/250px-Monumento_de_Clara_del_Rey_obra_del_escultor_C%C3%A9sar_Orrico_01.jpg)
+
+Fotografía: Juan Golben. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monumento_de_Clara_del_Rey_obra_del_escultor_C%C3%A9sar_Orrico_01.jpg). Licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
