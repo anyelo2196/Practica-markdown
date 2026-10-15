@@ -66,7 +66,7 @@ El parque Nacional Canaima destaca por sus paisajes naturales y sus tepuyes
 
 Este proyecto se realiza como parte de una práctica de Markdown del IES Clara del Rey, situado en Madrid.
 
-![IES Clara del Rey en Madrid](https://thumb.wikimedia.org/wikipedia/commos/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s_clara_del_rey_%28Prosperidad%2C_Madrid%29.jpgS)
+![IES Clara del Rey en Madrid](assets/ies-clara-del-rey.jpg)
 Fotografía: ANAGSPC. [wikimedia Commos](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg). Licenciada [CC BY-SA 4.0](https://creativecommos.org/licenses/by-sa/4.0/). 
 
 
